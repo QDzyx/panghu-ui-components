@@ -1,0 +1,1 @@
+import{d as n,r as a,a as i,c as u,w as c,o as l,b as r}from"./index-767ae405.js";const f=n({__name:"index",setup(p){const e=a(!1);return(_,o)=>{const s=i("ph-choose-icon");return l(),u(s,{title:"\u56FE\u6807\u9009\u62E9",visible:e.value,"onUpdate:visible":o[0]||(o[0]=t=>e.value=t)},{default:c(()=>[r(" \u56FE\u6807\u9009\u62E9 ")]),_:1},8,["visible"])}}});export{f as default};

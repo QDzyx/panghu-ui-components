@@ -1,1 +1,0 @@
-import{d as o,a as n,e as t,g as c,o as s}from"./index-94e04f71.js";const m=o({__name:"index",setup(a){return(_,p)=>{const e=n("ph-choose-city");return s(),t("div",null,[c(e)])}}});export{m as default};

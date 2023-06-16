@@ -1,1 +1,0 @@
-import{d as a,a as c,e as r,g as u,o as _,E as n}from"./index-94e04f71.js";const d=a({__name:"index",setup(m){const o=e=>{if(e)return n.success("\u5F00\u59CB\u65F6\u95F4"+e)},s=e=>{if(e)return n.success("\u7ED3\u675F\u65F6\u95F4"+e.endTime)};return(e,p)=>{const t=c("ph-choose-time");return _(),r("div",null,[u(t,{onStartChange:o,onEndChange:s})])}}});export{d as default};

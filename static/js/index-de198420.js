@@ -1,1 +1,0 @@
-import{d as t,a as c,e as u,g as r,o as _,E as n}from"./index-94e04f71.js";const l=t({__name:"index",setup(d){const o=e=>{n.success("\u5F00\u59CB\u65F6\u95F4:"+e)},s=e=>{n.success("\u7ED3\u675F\u65F6\u95F4:"+e.endDate)};return(e,p)=>{const a=c("ph-choose-date");return _(),u("div",null,[r(a,{onStartChange:o,onEndChange:s})])}}});export{l as default};
