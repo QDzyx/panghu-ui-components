@@ -1,0 +1,1 @@
+import{d as n,a as r,e as o,g as t,o as s}from"./index-94e04f71.js";const m=n({__name:"index",setup(a){return(i,p)=>{const e=r("ph-progress");return s(),o("div",null,[t(e,{isAnimation:!0,percentage:60}),t(e,{isAnimation:!0,percentage:60,type:"circle"}),t(e,{isAnimation:!0,"text-inside":!0,"stroke-width":22,percentage:80,status:"warning"})])}}});export{m as default};
